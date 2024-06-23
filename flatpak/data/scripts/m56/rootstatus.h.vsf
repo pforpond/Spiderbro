@@ -1,5 +1,0 @@
-"direction mainplayer 2"
-"fade in"
-"ifpocket checkpoint1"
-"speaker mainplayer"
-"say the PC says that the app lock is switched on!"

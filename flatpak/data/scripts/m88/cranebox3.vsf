@@ -1,5 +1,0 @@
-"ifpocket checkpoint9"
-"speaker mainplayer"
-"say This box has a battery in it! I'll take it!"
-"silentgive checkpoint9"
-"sfx pickup"

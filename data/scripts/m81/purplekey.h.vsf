@@ -1,7 +1,0 @@
-"ifpocket purplekey"
-"direction mainplayer 2"
-"fade in"
-"speaker mainplayer"
-"say the PC has given me a purple key!"
-"silentgive purplekey"
-"sfx pickup"

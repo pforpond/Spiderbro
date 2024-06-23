@@ -1,5 +1,0 @@
-"direction mainplayer 2"
-"fade in"
-"ifpocket checkpoint1"
-"speaker mainplayer"
-"say I have a floppy disk and a hammer!"
